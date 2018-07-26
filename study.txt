@@ -1,0 +1,20 @@
+2018.05.14
+1 pom
+2 包
+3 测试类加上日志
+4 注释 todo
+5 命名规则
+6 路径改为绝对路径 basepath
+
+spring mvc mybatis 
+j2se 
+log 
+web html 45 c3 ...js 
+web 容器 jsp js 
+
+
+
+eclipse bean 
+
+
+botostrap 教程  菜鸟
